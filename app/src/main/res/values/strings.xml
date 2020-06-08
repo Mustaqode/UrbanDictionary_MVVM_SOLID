@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UrbanDictionaryApp</string>
+    <string name="str_clean_architecture_mvvm">Clean Architecture + MVVM</string>
+    <string name="str_urban_dictionary">Urban Dictionary</string>
+    <string name="str_type_word_for_meaning">Type word for meaning</string>
+    <string name="str_get_meaning">Get Meaning</string>
+</resources>
