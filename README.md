@@ -21,4 +21,4 @@ I have separated the entire application into three modules.
   3) Retrofit
   4) Coroutines
   
-![header image] (https://github.com/Mustaqode/UrbanDictionary_MVVM_SOLID/blob/master/screenshot.png)
+Screenshot of the app: (https://github.com/Mustaqode/UrbanDictionary_MVVM_SOLID/blob/master/screenshot.png)
