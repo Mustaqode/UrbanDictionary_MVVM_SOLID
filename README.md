@@ -21,4 +21,4 @@ I have separated the entire application into three modules.
   3) Retrofit
   4) Coroutines
   
-![alt tag] screenshot.png
+![image] (screenshot.png)
